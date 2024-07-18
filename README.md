@@ -1,0 +1,2 @@
+# AAS
+asset administration shell
